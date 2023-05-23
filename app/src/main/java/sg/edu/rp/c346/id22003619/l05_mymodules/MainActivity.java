@@ -86,7 +86,7 @@ TextView tvc346;
                 i.putExtra("AcademicYear","2023");
                 i.putExtra("Semester",1);
                 i.putExtra("ModuleCredit",4);
-                i.putExtra("Venue","W64P");
+                i.putExtra("Venue","E63A");
                 startActivity(i);
             }
         });
