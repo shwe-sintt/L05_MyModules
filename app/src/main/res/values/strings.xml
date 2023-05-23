@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">L05_MyModules</string>
+    <string name="myMod">DDDD Modules</string>
+
+    <string name="modInfo">---Module Info---\n</string>
+
+    <string name="c346">C346\nMobile App Development</string>
+    <string name="c218">C218\nUI/UX Design for Apps</string>
+    <string name="C203">C203\nWeb App Development in PHP</string>
+    <string name="c206">C206\nSoftware Development Process</string>
+    <string name="c235">C235\nIT Security &amp; Management</string>
+
+    <string name="rtn">Return</string>
+</resources>
