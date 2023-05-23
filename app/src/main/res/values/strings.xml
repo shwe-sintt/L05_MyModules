@@ -4,11 +4,26 @@
 
     <string name="modInfo">---Module Info---\n</string>
 
+    <string name="cur">Current modules:</string>
     <string name="c346">C346\nMobile App Development</string>
     <string name="c218">C218\nUI/UX Design for Apps</string>
     <string name="C203">C203\nWeb App Development in PHP</string>
     <string name="c206">C206\nSoftware Development Process</string>
     <string name="c235">C235\nIT Security &amp; Management</string>
+
+    <string name="fut">Future Modules:</string>
+    <string name="c337">C337\nImmersive Technologies</string>
+    <string name="c338">C338\nAI and Machine Learning</string>
+    <string name="c339">C339\nSoftware Testing and Analytics</string>
+    <string name="c355">C355\nBusiness Intelligence</string>
+    <string name="t252">T252\nFundamentals of Design</string>
+
+    <string name="past">Past Modules:</string>
+    <string name="a113">A113\nMathematics</string>
+    <string name="c105">C105\nProgramming Fundamentals</string>
+    <string name="c109">C109\nIT in Business Process</string>
+    <string name="c207">C207\nDatabase Systems</string>
+    <string name="c227">C227\nComputer System Technologies</string>
 
     <string name="rtn">Return</string>
 </resources>
